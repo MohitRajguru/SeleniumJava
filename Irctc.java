@@ -75,6 +75,7 @@ public class Irctc {
 //			month = driver.findElement(By.className("ui-datepicker-month")).getText();
 //			year = driver.findElement(By.className("ui-datepicker-year")).getText();
 //		}
+//		hardcoded date as 17 below(not recommended, but will fix in further update)
 		driver.findElement(By.xpath("//a[text()='17']")).click();
 
 		// class of coach
