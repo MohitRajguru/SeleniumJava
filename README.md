@@ -1,4 +1,4 @@
 # SeleniumJava
-This repo has selenium practice codes on live websites
+This repo has selenium practice codes for live websites
 
 
